@@ -7,4 +7,6 @@ int main()
 	printf("456");
 
 	printf("嘿嘿\n");
+
+	printf("789");
 }
